@@ -1,0 +1,25 @@
+body {
+  font-family: 'Vollkorn SC', serif;
+}
+
+.container {
+  width: 100%;
+}
+
+.banner{
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+.button {
+  margin-left: 45%;
+  margin-top: 30%;
+  font-weight: 800;
+  color: white;
+  background-color: pink;
+  padding: 8px 10px;
+  text-decoration: none;
+  border-radius: 6px;
+  box-shadow: 2px 2px 2px 1px rgba(196, 128, 128, 0.2);;
+}
